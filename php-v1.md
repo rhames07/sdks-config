@@ -1,6 +1,6 @@
 # <img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" height=30 width=30> Como configurar ambiente para usar a SDK Mercado Pago PHP v1
 
-## 1. Verifique se o a versão do PHP instalada é a 5.6.
+## 1. Verifique se a versão do PHP instalada é a 5.6.
 
 ```
 php -v

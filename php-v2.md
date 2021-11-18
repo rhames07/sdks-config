@@ -1,6 +1,6 @@
 # <img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" height=30 width=30> Como configurar ambiente para usar a SDK Mercado Pago PHP v2
 
-## 1. Verifique se o a versão do PHP instalada é a 7.1.
+## 1. Verifique se a versão do PHP instalada é a 7.1 ou superior.
 
 ```
 php -v

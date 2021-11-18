@@ -54,7 +54,7 @@ O arquivo ficará assim:
 
 ## 6. Dentro do arquivo "Program.cs", copie e cole o snipet abaixo:
 
-```dotnet
+```csharp
 using System;
 using MercadoPago.Config;
 using MercadoPago.Client.Common;

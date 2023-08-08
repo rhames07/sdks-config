@@ -90,7 +90,7 @@ Console.WriteLine(Newtonsoft.Json.JsonConvert.SerializeObject(payment));
 
 > O e-mail deve ser um email de teste válido.
 
-> O snipet assima é apenas um exemplo, consulte nossa [documentação oficial](https://www.mercadopago.com.br/developers/pt/guides) para mais informações.
+> O snippet acima é apenas um exemplo, consulte nossa [documentação oficial](https://www.mercadopago.com.br/developers/pt/guides) para mais informações.
 
 ## 7. Execute o projeto e verifique o resultado.
 
